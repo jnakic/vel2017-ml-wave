@@ -6,13 +6,13 @@ Velocity 2017 Demo Scripts
 
 ## Prerequisites
 
-Anaconda Python Interactive Development Environment
+Download and Install Anaconda Python Interactive Development Environment
 
 * [Anaconda](https://www.continuum.io)
 
-Download and install Anaconda with Python 3.0
+Install Plotly Python Graphing Library [Command: pip install plotly]
 
-* [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [More Info](https://plot.ly/python/)
 
 After the installation is complete, open a console and check that Java version is 1.8 or higher by running the following command:
 
