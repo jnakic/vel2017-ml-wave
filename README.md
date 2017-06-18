@@ -8,7 +8,7 @@ Velocity 2017 Demo Scripts
 
 Download and Install Anaconda Python Interactive Development Environment
 
-* [Anaconda](https://www.continuum.io)
+* [Anaconda](https://www.continuum.io) Please install version that includes Python 3.x.
 
 Install Plotly Python Graphing Library
 
