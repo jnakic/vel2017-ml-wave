@@ -16,6 +16,8 @@ Install Plotly Python Graphing Library
 
 * [More Info About Plotly](https://plot.ly/python/)
 
+Click [here](https://github.com/sfperfdemo/vel2017-ml-wave/blob/master/Velocity%20Tutorial%20-%20Software%20Installation.pdf) for detailed installation instructions.
+
 Alternative installation:
 
 * [Python Software Foundation](https://www.python.org)
